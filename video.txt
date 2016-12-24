@@ -1,10 +1,10 @@
-!  -----更新时间:  2016-12-23 23:50:52   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2016-12-24 23:30:48   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 |http://livew.l.qq.com/livemsg?ty=web&ad_type=$s@<image>*</image>@@
 ||download.mokeedev.com/$s@<script language=javascript>function adBlockDetected*<script language=javascript>var wait="60"@<script language=javascript>var wait="1"@
 ||download.mokeedev.com/$s@window.setTimeout(function(){if(adsbygoogle instanceof Array){$('#alert-danger-enabled').show();$('#alert-success-enabled').hide();}},5000)@@
-
-
+|http://email.v2dizhi.at.gmail.com.v2b.space/$s@</head>@<style type="text/css">.index-advertise,[class^="side-advertisement"],.xvideo-primary-recommend,.play-advertise,.v-advertise,.advertise{display:none!important;display:none}</style></head>@
+|http://m.*/js/common.js$s@function style_bottom()*function readjs3()@function xxx()@
 
 !-------------------------------------------
 @@|http://ossweb-img.qq.com/images/nba2k/comm/js/gg.js
@@ -27,7 +27,10 @@ imaibo.net##.bottomLoginShortcutHolder
 |http://www.bdsola.com/js/common.js?v=
 |http://www.99ff1.com/player/html.php?adv_
 |http://td.xue163.com/ajs/newzongji/hezuotu.js
-
+||qzdfc.com
+||alisinak.com
+||pnhfc.com
+||18tzx.com
 
 
 !-----------------------
@@ -39,6 +42,9 @@ ck101.com##.ad728Top,.viewthread_announcements
 99ff1.com##[src*=".sinaimg.cn/large/"],.wrap-head-spots,[src^="http://www.99ff1.com/img/"],[class="block spots"]
 autonet.com.tw##[src^="http://www.autonet.com.tw/90/"],[name="ntwad2"]
 xue163.com##.diy_ad,[style="height:90px;"],[class="bor5"]
+qyle8.com##[class^="ads"],#player-advertising
+
+
 
 
 ejie.me/cn##[width="300"][height="250"]
