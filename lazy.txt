@@ -1,4 +1,4 @@
-!  -----更新时间:  2016-12-26 23:06:38   by:xwhyc-----
+!  -----更新时间:  2016-12-29 23:00:08   by:xwhyc-----
 @@|http://$domain=code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com
 @@|http://$domain=meidebi.com|alibaba.com|lifevc.com|ad.alimama.com|www.alimama.com|gome.com.cn|3songshu.com
 @@|http://$domain=meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|jifen.qq.com
@@ -7496,10 +7496,7 @@ sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class
 |http://valp.atm.youku.com/vp?vip=0&$s@,"RST":"swf","@,"RST":"jpg","@
 |http://www.52tian.net/v7/common.js$s@function GetAdJs*function hideann(isauto)@function hideann(isauto)@
 |http://www.lolshipin.com/$s@<span id="t">?0</span>@<span id="t">1</span>@
-|http://www.imanke.com/static/player/sohu.html$s@var url = 'http://tv.sohu.com/upload/swf/p2p/20140627/Main.swf'@var url = 'http://update.adbyby.com/swf/sohu_livezb.swf'@
-|http://www.imanke.com/static/player/loading/imanke.html$s@var showTime = ?;@var showTime = 0;@
 |http://manhua.dmzj.com/$s@<div style="width:960px;height:?0px;*</div>@@
-|http://www.aikuhu.com/Include/javascript/Player.js$s@"http://tv.sohu.com/upload/swf/*/Main.swf&@"http://update.adbyby.com/swf/sohu_livezb.swf&@
 |http://www.lepan.cc/$s@<div id="down_box" style="display:none*>@<div id="down_box">@
 |http://www.lepan.cc/$s@.size() == 0@.size() == 20@
 |http://www.sx566.com/down$s@.size() == 0@.size() == 20@
@@ -7708,7 +7705,6 @@ sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class
 |http://www.loldk.com/$s@id="time">??</font>@id="time">1</font>@
 |http://www.mfgun.com/file/$s@<script type="text/javascript">if (*</script>@@
 |http://www.mp4ba.com/$s@<script type="text/javascript" src="http://mp4ba.qucaigg.com:8080/*></script>@@
-|http://www.narutom.com/v3/player/sohu.html?v=$s@var url = 'http://tv.sohu.com/upload/swf/p2p/20150619/Main.swf@var url = 'http://update.adbyby.com/swf/sohu_livezb.swf@
 |http://www.ndwww.cn/video/$s@t:10,//@t:1,//@
 |http://www.ppdaili.com/$s@<script> ?wdurl='"http://s.click.taobao.com/t*</script>@@
 |http://www.ppstream.com/v_$s@cid=&@cid=qc_100001_100141&@
@@ -7734,11 +7730,9 @@ sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class
 |http://www.yunupload.net/$s@djstime=1000;@djstime=0;@
 |http://www.yypde.com$s@<script src="http://js.csad.cc:99/page/*"></script>@@
 |http://www.zdfans.com/$s@;k=[function(e){return r[e]}]@@
-|http://www.zhiboba.cc/app/play.aspx?xlid=$s@src="http://tv.sohu.com/upload/swf/20120803/Main.swf"@src="http://update.adbyby.com/swf/sohu_livezb.swf"@
 |http://www.zimuzu.tv/$s@<script type="text/javascript" language="javascript" charset="utf-8"  src="https://static-ssl.mediav.com/*/script>@@
 |http://www.zol.com.cn/$s@<base target="_blank"/>*</head>@<base target="_blank"/><style type="text/css">div.banner.mt,div.banner1.mt,div#rightAd,div#rightAdDiv1,div#right_banner,div.bannerleft,div#top_tl_ad,div.ad_div,DIV.gmine_ad,.adSpace,#commentTopAd,#Bar3733_big,div.ad-box.article-cont-ad,DIV[class="ad-box ad-box"],div#activeEntry0703,ul.ad-window,div[id^="Bar37"],div[id^="Bar38"],div.ecma-baokuan-main,div[id^="ad_"],div[id^="Bar"][id$="_small"],div[id^="Bar"][id$="_big"],div.side-news,ul#soft-sj-rank.soft-list.clearfix,div.winbox,div[class^="default-head"],div.advert,#youdao,#youdao2,div#baoban,div#blank,div#luo-ad,div#luo-small,.zplus_ad,[id^="AD_"],[id^="_AD_"],.dcmads,#ZOL-shop,#bgad,.download-top,[src^="http://www.zol.com.cn/ad/"],.ad_001,.zmall-ad-1000{display:none!important;display:none}</style></head>@
 |http://www.zqzhibo.com/$s@, 1000);@, 0);@
-|http://www.zybus.com/js/play.js$s@sohu2Player:"http://tv.sohu.com/upload/swf/201*/Main.swf",@sohu2Player:"http://update.adbyby.com/swf/sohu_livezb.swf",@
 |http://www1.baidu.com/s?$s@display:block !important;visibility:visible !important")@display:none !important")@
 |http://y.baidu.com/top$s@<script>var lowBrowser = true;</script><![endif]--><style type="text/css">div#pb_adbanner,*</head>@<script>var lowBrowser = true;</script><![endif]--></head>@
 |http://ypan.cc/$s@<script src='http://vipjs.csad.cc:*></script>@@
@@ -7757,7 +7751,7 @@ sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class
 ||gamersky.com/*.shtml|$s@<script>??var adhtImg=*</script>@@
 !!||atm.youku.com/v*site=1&fu=0&$f@s@&p=\d@&p=0@
 ||iqiyi.com/*.html$s@,cid:""@,cid:"qc_100001_100141"@
-!||iqiyi.com/*.html$s@,cpnv:"1.0"@@
+||iqiyi.com/*.html$s@,cpnv:"1.0"@@
 !||iqiyi.com/*.html$s@cid:"qc_100001_100???"@cid:"qc_100001_100141"@
 |http://*/images/bqg.js|$s@function list1(){*function read3()@function xxx()@
 |http://*/images/bqg.js|$s@function listhf(){*function indexhf()@function xxx()@
