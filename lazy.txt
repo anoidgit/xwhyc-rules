@@ -1,4 +1,4 @@
-!  -----更新时间:  2016-12-25 23:06:38   by:xwhyc-----
+!  -----更新时间:  2016-12-26 23:06:38   by:xwhyc-----
 @@|http://$domain=code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com
 @@|http://$domain=meidebi.com|alibaba.com|lifevc.com|ad.alimama.com|www.alimama.com|gome.com.cn|3songshu.com
 @@|http://$domain=meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|jifen.qq.com
@@ -1170,6 +1170,9 @@ imaibo.net##.bottomLoginShortcutHolder
 |http://api.adv.ott.cibntv.net^
 |http://api.bilibili.com/x/web-show/res/loc?callback=jQuery*&pf=0&id=29
 |http://api.bilibili.com/x/web-show/res/loc?callback=jQuery*&pf=0&id=40
+|http://api.bilibili.com/x/web-show/res/loc?callback=jQuery*&pf=0&id=44
+|http://api.bilibili.com/x/web-show/res/loc?pf=0&id=
+|http://api.bilibili.com/x/web-show/res/Query*&pf=0&id=40
 |http://api.bilibili.com/x/web-show/res/loc?callback=jQuery*&pf=0&id=44
 |http://api.bilibili.com/x/web-show/res/loc?pf=0&id=
 |http://api.bilibili.com/x/web-show/res/loc?pf=0&id=*&aid=
@@ -7677,8 +7680,6 @@ sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class
 |http://www.cntaijiquan.com/*.html|$s@<span id="djs" style="color:#FFDD00">4</span>@<span id="djs" style="color:#FFDD00">1</span>@
 |http://www.dahanju.com/player/m*.php?vid=$s@l:'http://www.dahanju.com/player/all.gif',*t:'15',@l:'',r:'',t:'',@
 |http://www.dahanju.com/player/m15.php?vid=$s@var second=1?;@var second=1;@
-|http://www.dmnico.cn/js/qiyi2.js$s@flashP2PCoreUrl=http://www.iqiyi.com/common/flashplayer/201*/300*.swf@flashP2PCoreUrl=http://www.iqiyi.com/common/flashplayer/20151119/3022.swf@
-|http://www.dmnico.cn/js/qiyi2.js$s@src="http://www.iqiyi.com/common/flashplayer/201*/MainPlayer_5_*.swf"@src="http://update.adbyby.com/swf/iqiyi5.swf"@
 |http://www.dnvod.eu$s@l:'/upload/2016/*'@l:''@
 |http://www.dnvod.eu$s@l:'http://*'@l:''@
 |http://www.dnvod.eu/$s@}, 10000);@}, 0);@
@@ -7908,7 +7909,7 @@ sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class
 |http://rm.du1du.org/main.js^$s@function mad1()*function doswap()@function xxxx()@
 |http://score.nowscore.com/Control/$s@ShowAd=true@ShowAd=false@
 |http://sj.3987.com/statics/v4/js/wap.js$s@tyMap = window.tyMap || {};@@
-|http://static.iqiyi.com/js/player_v1/config/online.js$s@FLASH_PLAYER_URL:"http://www.iqiyi.com/common/flashplayer/201*.swf"@FLASH_PLAYER_URL:"http://update.adbyby.com/swf/iqiyi5.swf"@
+!!!|http://static.iqiyi.com/js/player_v1/config/online.js$s@FLASH_PLAYER_URL:"http://www.iqiyi.com/common/flashplayer/201*.swf"@FLASH_PLAYER_URL:"http://update.adbyby.com/swf/iqiyi5.swf"@
 |http://storebt.com/$s@<script language="javascript" type="text/javascript">document.write(decodeURIComponent("%3C"+"scr"+"ipt"*;</script>@@
 |http://storebt.com/$s@<script language="javascript" type="text/javascript">document.write(decodeURIComponent("%3Cscr"+"ipt%20"*;</script>@@
 |http://t7z.cupid.iqiyi.com/show2?a=qc_100001_$s@<Ad>*</Ad>@@

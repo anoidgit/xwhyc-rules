@@ -1,14 +1,23 @@
-!  -----更新时间:  2016-12-25 23:07:45   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2016-12-26 23:07:45   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
-
-
+||gamer.com.tw$s@var AntiAd = AntiAd || {};@@
+|http://m.5du5.net/scripts/theme.js$s@function index_1()*function info_ts()@function info_ts()@
 
 
 !-------------------------------------------
+|http://cbjs.baidu.com/js/rm/top-down.js
+||3dmgame.com/templets/index/gimg/
 
 
+@@|http://*/videos/other/20161111*.f4v|
+@@|http://*/videos/other/2016120*.f4v|
+@@|http://*/videos/other/2016101*.f4v|
+@@|http://*/videos/other/20161122/*.f4v|
+@@|http://*/videos/other/2016121*.f4v|
 
 !-----------------------
+tiexue.net##[id^="baidu_clb_wrapper_ad"]
+
 
 
 
