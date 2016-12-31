@@ -1004,7 +1004,7 @@ imaibo.net##.bottomLoginShortcutHolder
 |http://*_ad.js|$script
 |http://*_ad.php?
 |http://*_ad_close.$image
-|http://*_ads.js|$script
+|http://*_ads.js|$script,domain=~epinv.com
 |http://*_ads.swf|
 |http://*_adv.gif$image
 |http://*_banner.html|
@@ -1171,11 +1171,8 @@ imaibo.net##.bottomLoginShortcutHolder
 |http://api.bilibili.com/x/web-show/res/loc?callback=jQuery*&pf=0&id=29
 |http://api.bilibili.com/x/web-show/res/loc?callback=jQuery*&pf=0&id=40
 |http://api.bilibili.com/x/web-show/res/loc?callback=jQuery*&pf=0&id=44
-|http://api.bilibili.com/x/web-show/res/loc?pf=0&id=
 |http://api.bilibili.com/x/web-show/res/Query*&pf=0&id=40
 |http://api.bilibili.com/x/web-show/res/loc?callback=jQuery*&pf=0&id=44
-|http://api.bilibili.com/x/web-show/res/loc?pf=0&id=
-|http://api.bilibili.com/x/web-show/res/loc?pf=0&id=*&aid=
 |http://api.bilibili.com/x/web-show/res/locs?jsonp=jsonp&pf=0&ids=*&callback=jQuery
 |http://api.cupid.iqiyi.com/show2?a=qc_100001_100329&
 |http://api.cupid.iqiyi.com/show2?u=*&a=qc_100001_300144
@@ -1363,7 +1360,7 @@ imaibo.net##.bottomLoginShortcutHolder
 |http://drmcmm.
 |http://dup.baidustatic.com/dup/ui/painter/pcInsert.js
 |http://dup.baidustatic.com/js/dm.js
-|http://dup.baidustatic.com/js/ds.js
+|http://dup.baidustatic.com/js/ds.js$domain=~epinv.com
 |http://dup.baidustatic.com/js/om.js
 |http://dup.baidustatic.com/js/os.js$domain=~coladrive.com
 |http://dup.baidustatic.com/js/zm.js
@@ -4732,6 +4729,30 @@ imaibo.net##.bottomLoginShortcutHolder
 ||zzbaowen.com
 ||zzrcz.com
 ||zztlgm.com
+|http://cbjs.baidu.com/js/rm/top-down.js
+||3dmgame.com/templets/index/gimg/
+|http://cbjs.baidu.com/js/s.js
+||5188yy.com
+|http://djs.oscaches.com
+||268mob.cn
+||wka8.com
+||wapadv.com
+||yu0123456.com
+|http://*/api/v1/episode_ads^
+|http://forum.anywlan.com/static/js/forum_viewthread.js
+||hxadt.com
+|http://lview.3g.qq.com/lview?c=www&loc=QQ3G_stream&ad_cnt=
+|http://nodeapi.3g.qq.com/nodeapi/api/ads^
+|http://info.3g.qq.com/g/*_area_advert.htm^
+|http://api.bilibili.com/x/web-show/res/loc?pf=0&id=128
+|http://static.iask.cn/fidjs/M/64_
+tiexue.net##[id^="baidu_clb_wrapper_ad"]
+aikuhu.com###Adtips,.ad_A,.ad_B
+fifm.live###player_ad,.adsbygoogle
+yms7.com##[href^="https://s.click.taobao.com/t?"],#divtaobaogou,#divclxt,.bannerad,[id^="tk_box_"]
+seehd.co##.J_advert
+bjxxw.com##.topAD
+ip.cn##[href^="https://s.click.taobao.com"]
 001bz.net##.slide-ad,#adt2
 001cw.com##.ad
 0086crane.com###LeftAd,#LeftAd1,#RightAd,#RightAd1,[href^="http://www.0086crane.com/extend/redirect-htm-aid-"],[width="980"][height="86"]
@@ -5363,7 +5384,7 @@ csdn.net##.enter-AD
 css88.com##.banner-con,.amazeui-link,.textwidget
 csstock.cn##div.mtop10
 ctc.qzs.qq.com##IMG[alt="qboss_ad_image"]
-ctfile.com##div#advLeft,div#bd_hl_tuwen,div#head_banner_970,div#dmp_banner,div#__keyrun_RM_Div,.content_info_left_160,[id^="BAIDU_SSP__wrapper_"],.ad-160x600,[href="http://web.ctfile.com/about/adv"],[id^="a_z_"]
+ctfile.com##div#advLeft,div#bd_hl_tuwen,div#head_banner_970,div#dmp_banner,div#__keyrun_RM_Div,.content_info_left_160,[id^="BAIDU_SSP__wrapper_"],.ad-160x600,[href="http://web.ctfile.com/about/adv"],[id^="a_z_"],[id^="ad"]
 ctrip.com##div.img_show,div.pic-banner
 cv.xxxzc.net##DIV.maintable[style="color: #666; clear: both;"],DIV.spaceborder[style="width: 98%"],TR.t_infoline
 cyzone.cn##div.app-download-bottom
@@ -5397,7 +5418,7 @@ didamoe.com##.banner_and,.adsbygoogle,div.guide-app-fix,.banner_img_one
 didown.com##[class="i-gg-"],.program-header
 diediao.com###buffer
 dingdianzw.com##.adsbygoogle
-dio88.net##.wp.a_h,.a_cb,.a_f,.altbg2,.a_fl,.a_fr,.a_cn,#diy1
+dio88.net,dio66.net##.wp.a_h,.a_cb,.a_f,.altbg2,.a_fl,.a_fr,.a_cn,#diy1
 dio99.com##table[align="right"],[class^='a_']
 dioguitar23.net##div.wp.a_h,div.a_fl,div.a_fr,div#diy1
 dioguitar23.tianyatorrents.info##a[href*="ad"],img[width="760"][height="60"]
@@ -5466,8 +5487,7 @@ enorth.com.cn##DIV.guanggao
 enread.com##td[width="326"][height="250"]
 enshi.cn##[src^="http://upload.enshi.cn/userfiles/esrb/"]
 entertainment14.net##[class$="ads_box"],#text-2,#text-3,#text-9,#text-11,.adsbygoogle
-epinv.com##.huadong
-epinv.com##.yin
+epinv.com##.yin,[title="yin"],.huadong,[class="leftside epdown"],#down_ep2,.bdlianjie,#widget_roll_no
 eprice.com.tw##[class^="ad-"],.adsbygoogle,.event-banner
 epshw.com##.comeing_cityb_wad,#diy1,#diy4,#diynavtop,.ad
 erji.net##TD.black.y-style,td.banner
@@ -7160,6 +7180,9 @@ sju.wang###down_box{display:block!important;}
 ejie.me/cn##[width="300"][height="250"]
 51cto.com###top_banner,#top_banner .ban2{height: 26px;}.top_bg,.top_bg .wrap{height: 76px;}
 book.qidian.com##.crumbs-nav.top-op {margin: 16px auto 20px;}
+epinv.com##[class="eprand"]{height:5px;}
+
+
 
 |http://bbs.##.ad960-90,div.ad-side,.adtable,div.a_mu,div.a_h,.adsbygoogle,div.ad_pic,div#ggPar,div.wp.a_f,div.wp.a_t,div.a_p,div.a_pb,div.a_pt,div.a_pr,#preAdContent,div.a_cn,div.bm.a_c,[id^="f21ac82b21eeb7322631b6aa94e17f"],.a_cb,.a_fr,#ad_headerbanner
 
@@ -7683,7 +7706,7 @@ sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class
 |http://www.doyo.cn/flash/play/$s@var cover_play_time=15;@var cover_play_time=0;@
 |http://www.dpp2019.com/sdplayer.php?id=$s@l:'http://www.*t:'10',@l:'',r:'',t:'',@
 |http://www.duonao.tv/$s@,l='http://www.duonao.tv//upload/*',@,l='',@
-|http://www.epinv.com/dl/*.html$s@$('.downloadContent').html('<div class="danger">*} else@}@
+!|http://www.epinv.com/dl/*.html$s@$('.downloadContent').html('<div class="danger">*} else@}@
 |http://www.fxpan.com/downhtml/$s@clientHeight < 50@clientHeight < 0@
 |http://www.fxpan.com/file/$s@;display:none;">@;">@
 |http://www.fydisk.com/$s@<div id="down_box" style="display:none;">@<div id="down_box">@
@@ -8051,3 +8074,8 @@ sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class
 ||zhaodaoshu.com/book_$s@<script type="text/javascript" language="javascript" src="http://s1.sxxjdz.com:8081/js/*"></script>@@
 ||zihu.tv$s@<script src='http://js5048.alitianxia168.com:8080/i.php?*'></script>@@
 ||zimuzu.tv/$s@function(img_url,link)@@
+||gamer.com.tw$s@var AntiAd = AntiAd || {};@@
+|http://m.5du5.net/scripts/theme.js$s@function index_1()*function info_ts()@function info_ts()@
+|http://lives.l.ott.video.qq.com/livemsg*&ad_type=$s@<duration>??000</duration>@@
+|http://v.ku6.com/*html$s@},15000);@},0);@
+|http://dio66.net/$s@function openpopup@@
