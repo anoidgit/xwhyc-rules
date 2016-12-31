@@ -1,4 +1,4 @@
-!  -----更新时间:  2016-12-29 23:00:08   by:xwhyc-----
+!  -----更新时间:  2016-12-30 23:25:36   by:xwhyc-----
 @@|http://$domain=code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com
 @@|http://$domain=meidebi.com|alibaba.com|lifevc.com|ad.alimama.com|www.alimama.com|gome.com.cn|3songshu.com
 @@|http://$domain=meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|jifen.qq.com
@@ -7187,8 +7187,10 @@ www.longbuluo.com##div.banner,div[id^="cnzz_slot_"]:not(#cnzz_slot_28470)
 ||livem.l.qq.com
 ||livep.l.qq.com
 ||lives.l.qq.com
-|http://ad.api.3g.youku.com/adv^
-|http://ad.api.3g.tudou.com/adv^
+!|http://ad.api.3g.youku.com/adv^
+!|http://ad.api.3g.tudou.com/adv^
+|http://ad.api.3g.youku.com/adv/startpage
+|http://ad.api.3g.youku.com/adv*&position=$f@s@&position=\d{1,2}&@&position=0&@
 !|http://m.aty.sohu.com/m?du=
 !|http://m.aty.sohu.com/
 |http://mf.atm.youku.com/mf?site=1&p=$s@adpluginobject.adParse(*)@adpluginobject.adParse()@
@@ -7196,10 +7198,7 @@ www.longbuluo.com##div.banner,div[id^="cnzz_slot_"]:not(#cnzz_slot_28470)
 ||cupid.iqiyi.com/mixer?a*=qc_100001_100
 ||qiyipic.com/common/ad/
 |http://cache.m.iqiyi.com/jp/tmts/$s@,"ad":1,@,"ad":0,@
-@@|http://ad.api.3g.youku.com/adv?dprm=*&device_type=
-@@|http://ad.api.3g.tudou.com/adv?dprm=*&device_type=
-|http://ad.api.3g.youku.com/adv?dprm=$s@{"P":*,"@{"P":0,"@
-|http://ad.api.3g.tudou.com/adv?dprm=$s@{"P":*,"@{"P":0,"@
+|http://ad.molitv.cn/
 
 
 @@|http://ww201.keyyou.net/
@@ -7903,7 +7902,7 @@ sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class
 |http://rm.du1du.org/main.js^$s@function mad1()*function doswap()@function xxxx()@
 |http://score.nowscore.com/Control/$s@ShowAd=true@ShowAd=false@
 |http://sj.3987.com/statics/v4/js/wap.js$s@tyMap = window.tyMap || {};@@
-!!!|http://static.iqiyi.com/js/player_v1/config/online.js$s@FLASH_PLAYER_URL:"http://www.iqiyi.com/common/flashplayer/201*.swf"@FLASH_PLAYER_URL:"http://update.adbyby.com/swf/iqiyi5.swf"@
+|http://static.iqiyi.com/js/player_v1/config/online.js$s@FLASH_PLAYER_URL:"http://www.iqiyi.com/common/flashplayer/201*.swf"@FLASH_PLAYER_URL:"http://update.adbyby.com/swf/iqiyi5.swf"@
 |http://storebt.com/$s@<script language="javascript" type="text/javascript">document.write(decodeURIComponent("%3C"+"scr"+"ipt"*;</script>@@
 |http://storebt.com/$s@<script language="javascript" type="text/javascript">document.write(decodeURIComponent("%3Cscr"+"ipt%20"*;</script>@@
 |http://t7z.cupid.iqiyi.com/show2?a=qc_100001_$s@<Ad>*</Ad>@@
