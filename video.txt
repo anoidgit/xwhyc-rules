@@ -1,12 +1,36 @@
-!  -----更新时间:  2016-12-31 23:40:12   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2017-1-3 21:44:24   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 
 !-------------------------------------------
+|http://v.163.com/special/*/sp_duan_adv.xml|
+|http://m.qiuxia66.com/Runtime/js/sj
+|http://static.jfrft.com/js/main_$script
+|http://m.static.jfrft.com/js/m_dilidili_main.js
+|http://www.chddh.com/G1G/$script
+||77file.com/jsa/
+||dhtdig.xyz/static/js/dht_default.js
+@@|http://www.you85.com/data/cache/
+|http://www.you85.com/$script
+
 
 
 !-----------------------
+163.com##.top-gg-area
+beareyes.com.cn##.detailed_ad,.page_banner,.newsPage_ad,.bj_ad
+fifm.live###player_ad,.adsbygoogle
+yms7.com##[href^="https://s.click.taobao.com/t?"],#divtaobaogou,#divclxt,.bannerad,[id^="tk_box_"]
+taohuabbs.info##.a_fl,.a_cb,.a_cn,[height="60"],.it618_firstad_flex,[style="margin-top:5px"],[style="margin-bottom:5px"]
+eweiqi.com##.guoqing
+dilidili.com###tr1.dibu
+chddh.com##.ad,.ad2
+ctfile.com###dmp_banner1
+www.you85.com##div.a_pb,div.a_pt,div.a_mu
+612459.com##[class^="ad"]
+
+
+
 
 
 
