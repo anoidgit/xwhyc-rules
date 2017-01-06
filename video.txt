@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-1-4 21:50:18   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2017-1-5 22:11:06   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 |http://m.bqg5200.com/wap/wap.js$s@function qijixs_top*function _bqg_St()@function xxx()@
 |http://m.50zw.la/wap.js$s@function _m_j_cp()*function _BottomAll()@function xxx()@
@@ -28,10 +28,14 @@
 |http://www.med66.com/include/indexBanner.js
 ||94lm.com
 |http://www.gueizu.com/wp/img/xiazai$image
+|http://api.bilibili.com/x/web-show/res/loc?pf=0&id=160
+|http://ballive.com/addm/
+|http://ballive.com/inc/language.js
+|http://g.click.taobao.com/display?rd=$domain=indvaan.com
 
 
 !-----------------------
-163.com##.top-gg-area
+163.com##.top-gg-area,[src^="http://money.163.com/special/gegu_"]
 beareyes.com.cn##.detailed_ad,.page_banner,.newsPage_ad,.bj_ad
 fifm.live###player_ad,.adsbygoogle
 yms7.com##[href^="https://s.click.taobao.com/t?"],#divtaobaogou,#divclxt,.bannerad,[id^="tk_box_"]
@@ -49,7 +53,9 @@ tsdm.me##.a_pb,.a_pt,[id^="tsdmadv_"],.bm.a_c,[href^="https://jiekeqianyan.tmall
 bqg5200.com##.content_ad,.ad250left
 med66.com##[id^="ad"],[class$="container"],.banner,.gao
 chysg.com###comiis01,[height="90"],.a_pt,.ad,.comiis_ad
-
+tsdm.tv##[id^="content_box_"],div[style*="width:960px;height:90px"]
+bkill.com##.xiangguan-ad,.yinsu_xz
+10pan.cc###dl_tips,#b1
 
 
 
@@ -61,4 +67,5 @@ thegreatdaily.com/cat##.col-lg-8.col-md-8{width:1190px;}
 !www.baidu.com,news.baidu.com###content_left,.c-container,.result{width:860px}.c-span-last{width:720px}
 |http://ad.api.3g.youku.com/adv^
 |http://ad.api.3g.tudou.com/adv^
-gueizu.com/###down_box{display:block!important;}
+gueizu.com###down_box{display:block!important;}
+10pan.cc###dl_addr,#down_box{display:block!important;}
