@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-1-5 22:11:06   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2017-1-7 14:54:35   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 |http://m.bqg5200.com/wap/wap.js$s@function qijixs_top*function _bqg_St()@function xxx()@
 |http://m.50zw.la/wap.js$s@function _m_j_cp()*function _BottomAll()@function xxx()@
@@ -6,8 +6,13 @@
 |http://m.8dushu.com/mobile/css/my.js$s@function tongji()*function ad_bottom2()@function xxx()@
 |http://www.mp4pa.com/$s@<script src="http://js3809.kjgen.com*</script>@
 |http://www.gueizu.com/file-$s@var secs = 10;@var secs = 1;@
-
-
+|http://btkitty.$s@<div class="footer" >*src="http://www.baidu.com/js/opensug.js"></script>@@
+|http://btkitty.$s@<script charset="utf-8" src="http://t.ju33.com:*</script>@@
+|http://btkitty.$s@<script src="http://js3555.*</script>@@
+|http://btkitty.$s@<script src="http://js883.*</script>@@
+|http://btkitty.$s@<script type="text/javascript">;(function(O, url)*</script>@@
+||2kandy.com$s@<script src="http://js6964.zzbaowen.com*</script>@@
+||download.mokeedev.com/$s@<script language=javascript>var wait="?0"@<script language=javascript>var wait="1"@
 
 !-------------------------------------------
 |http://v.163.com/special/*/sp_duan_adv.xml|
@@ -32,6 +37,12 @@
 |http://ballive.com/addm/
 |http://ballive.com/inc/language.js
 |http://g.click.taobao.com/display?rd=$domain=indvaan.com
+||zgyemy.com
+||hzkcbs.com$third-party
+||chanet.com.cn$third-party
+||jixian360.com
+!|http://download.mokeedev.com/js/fuckadblock.js
+
 
 
 !-----------------------
@@ -56,9 +67,9 @@ chysg.com###comiis01,[height="90"],.a_pt,.ad,.comiis_ad
 tsdm.tv##[id^="content_box_"],div[style*="width:960px;height:90px"]
 bkill.com##.xiangguan-ad,.yinsu_xz
 10pan.cc###dl_tips,#b1
-
-
-
+2kandy.com###xinnxi,.a_f,.a_cn,.a_cb
+cnsat.net##[height="90"],[height="93"],[height="100"],[width="120"][height="240"],#followDiv1,#followDiv2,[height="250"],[href="http://www.weixingtianxian.cn"]
+mokeedev.com###alert-danger-enabled
 
 !---------adbyby---------
 !|http://bbs.kafan.cn/$s@</head>@</head><script>document.cookie="r6pb_69df_widthauto=1;domain=kafan.cn";</script>@
@@ -69,3 +80,4 @@ thegreatdaily.com/cat##.col-lg-8.col-md-8{width:1190px;}
 |http://ad.api.3g.tudou.com/adv^
 gueizu.com###down_box{display:block!important;}
 10pan.cc###dl_addr,#down_box{display:block!important;}
+mokeedev.com###alert-success-enabled{display:block!important;}
