@@ -48,7 +48,7 @@
 @@|http://m.69shu.com/js/rtools.js
 @@|http://m.69shu.com/js/history.js
 @@||mail.qq.com
-
+|http://n1image.hjfile.cn/mh/201$image
 
 
 !-----------------------
@@ -82,6 +82,8 @@ cqsq.com##[src^="//res.cq.cm/temp/201"]
 hlyy.cc##[src^="http://s1.limeishang.com:8081"],[width="960"],.ui-sponsor,[id$="_couplet"]
 subhd.com##[src^="http://pic.yupoo.com/ttmeiju/"]
 xilinjie.com##.xlj-container
+hjenglish.com##[class^="bottomActive"],[id="regscrollcontainer"]
+80s.tw##[width="960"][height="90"]
 
 
 !---------adbyby---------
