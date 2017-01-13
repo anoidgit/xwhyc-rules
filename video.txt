@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-1-12 21:32:54   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2017-1-13 19:29:21   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 |http://m.bqg5200.com/wap/wap.js$s@function qijixs_top*function _bqg_St()@function xxx()@
 |http://m.50zw.la/wap.js$s@function _m_j_cp()*function _BottomAll()@function xxx()@
@@ -84,6 +84,7 @@ subhd.com##[src^="http://pic.yupoo.com/ttmeiju/"]
 xilinjie.com##.xlj-container
 hjenglish.com##[class^="bottomActive"],[id="regscrollcontainer"]
 80s.tw##[width="960"][height="90"]
+y4dg.cc##[class^="a_"]
 
 
 !---------adbyby---------
