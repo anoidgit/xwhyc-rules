@@ -1,10 +1,10 @@
-!  -----更新时间:  2017-1-19 23:17:58   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2017-1-20 22:52:59   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 |http://www.dagougou.cc/$s@<script src=?http://js818.51weidashi.com*</script>@@
 |http://www.dagougou.cc/$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
 |http://www.mianhuatang.la/images/book.js$s@function a()*function reads()@function xxx()@
 |http://m.mianhuatang.la/images/page.js$s@function fujia()*function search()@function search()@
-|http://www.gaoqingkong.com/$s@if(divHeight1<1*0)@if(divHeight1<0)@
+|http://www.gaoqingkong.com/$s@<script>/?<![CDATA[?/var strVar1=*</script>@@
 |http://wap.xxbiquge.com/js/common.js$s@function style_head()*function tm()@function xxx()@
 |http://zhongzicili.com/$s@<div class="footer" >*src="http://www.baidu.com/js/opensug.js"></script>@@
 |http://zhongzicili.com/$s@<script charset="utf-8" src="http://t.ju33.com:*</script>@@
@@ -12,7 +12,7 @@
 |http://zhongzicili.com/$s@<script src="http://js883.*</script>@@
 |http://zhongzicili.com/$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
 |http://www.iqiyi.com/common/flashplayer/201*c2359.swf$f@s@http://www.iqiyi.com/common/flashplayer/201.*c2359\.swf@http://update.adbyby.com/swf/iqiyi5.swf@
-
+||booktxt.net/wap/booktxt/wap.js$s@function qijixs_top()*function qijixs_bottom()@function xxx()@
 !-------------------------------------------
 ||yunluge.com
 ||jheva.com
@@ -31,7 +31,17 @@
 ||9cp2.com
 |http://*.com/cpv.php^
 @@||irs01.com/irt?_iwt_id=*&_iwt_UA=UA-iqiyi-
-@@||data.video.qiyi.com/videos/other
+!@@||data.video.qiyi.com/videos/other
+|http://dm.sanwen.net/
+|http://m.sanwen.net/static/js/mobile.js
+||js.union-wifi.com/zm.js?cid=*&dmac
+|http://1.win7china.com$script
+|http://1.panduoduo.net$script
+|http://code1.2chcn.net$script
+||daima.huoche.net
+
+
+
 
 
 
@@ -42,7 +52,7 @@ tsdm.tw##.bm.a_c
 codepub.com##.small-banner,.ad
 zhongzicili.com##[href^="http://yunbofangbt.com/gotoum"]
 btlibrary.me##[href^="http://yunbofangbt.com/gotoum"]
-
+biquge5200.com##[id^="ad"]
 !---------adbyby---------
 !|http://bbs.kafan.cn/$s@</head>@</head><script>document.cookie="r6pb_69df_widthauto=1;domain=kafan.cn";</script>@
 thegreatdaily.com/cat##.col-lg-8.col-md-8{width:1190px;}
