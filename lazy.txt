@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-1-16 22:22:48   by:xwhyc-----
+!  -----更新时间:  2017-1-19 23:18:13   by:xwhyc-----
 @@|http://$domain=code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com
 @@|http://$domain=meidebi.com|alibaba.com|lifevc.com|ad.alimama.com|www.alimama.com|gome.com.cn|3songshu.com
 @@|http://$domain=meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|jifen.qq.com
@@ -7673,7 +7673,7 @@ sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class
 |http://www.zdfans.com/$s@<div class="widget widget_d_banner widget_d_banner_row"><script*</script></div>@@
 |http://www.bumimi.com/player/m$s@d:'http://*/all.gif'*t:'??',@t:'0',@
 |http://www.zdfans.com/$s@<script>var sltips = *</script>@@
-||qiyi.com/crossdomain.xml$s@<allow-access-from domain="?.qiyi.com"/>@<allow-access-from domain="*"/>@
+!!!||qiyi.com/crossdomain.xml$s@<allow-access-from domain="?.qiyi.com"/>@<allow-access-from domain="*"/>@
 |http://data.video.iqiyi.com/crossdomain.xml$s@<allow-access-from domain="?.qiyi.com"/>@<allow-access-from domain="*"/>@
 |http://www.lawtv.com.cn/$s@l:'http://wwww.lawtv.com.cn/skin/front.swf',*t:15,@t:0,@
 |http://static.tuchong.net/js/all.js?$s@,"contextmenu",function(e){return alert($(this).data("copyright")),!1}@@
@@ -7879,7 +7879,7 @@ sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class
 ||gamersky.com/*.shtml|$s@<script>??var adhtImg=*</script>@@
 !!||atm.youku.com/v*site=1&fu=0&$f@s@&p=\d@&p=0@
 ||iqiyi.com/*.html$s@,cid:""@,cid:"qc_100001_100141"@
-||iqiyi.com/*.html$s@,cpnv:"1.0"@@
+!||iqiyi.com/*.html$s@,cpnv:"1.0"@@
 !||iqiyi.com/*.html$s@cid:"qc_100001_100???"@cid:"qc_100001_100141"@
 |http://*/images/bqg.js|$s@function list1(){*function read3()@function xxx()@
 |http://*/images/bqg.js|$s@function listhf(){*function indexhf()@function xxx()@
@@ -8045,7 +8045,7 @@ sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class
 |http://rm.du1du.org/main.js^$s@function mad1()*function doswap()@function xxxx()@
 |http://score.nowscore.com/Control/$s@ShowAd=true@ShowAd=false@
 |http://sj.3987.com/statics/v4/js/wap.js$s@tyMap = window.tyMap || {};@@
-|http://static.iqiyi.com/js/player_v1/config/online.js$s@FLASH_PLAYER_URL:"http://www.iqiyi.com/common/flashplayer/201*.swf"@FLASH_PLAYER_URL:"http://update.adbyby.com/swf/iqiyi5.swf"@
+!!!|http://static.iqiyi.com/js/player_v1/config/online.js$s@FLASH_PLAYER_URL:"http://www.iqiyi.com/common/flashplayer/201*.swf"@FLASH_PLAYER_URL:"http://update.adbyby.com/swf/iqiyi5.swf"@
 |http://storebt.com/$s@<script language="javascript" type="text/javascript">document.write(decodeURIComponent("%3C"+"scr"+"ipt"*;</script>@@
 |http://storebt.com/$s@<script language="javascript" type="text/javascript">document.write(decodeURIComponent("%3Cscr"+"ipt%20"*;</script>@@
 |http://t7z.cupid.iqiyi.com/show2?a=qc_100001_$s@<Ad>*</Ad>@@
