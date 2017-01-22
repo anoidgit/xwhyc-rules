@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-1-20 22:52:59   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2017-1-22 21:23:24   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 |http://www.dagougou.cc/$s@<script src=?http://js818.51weidashi.com*</script>@@
 |http://www.dagougou.cc/$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
@@ -11,8 +11,15 @@
 |http://zhongzicili.com/$s@<script src="http://js3555.*</script>@@
 |http://zhongzicili.com/$s@<script src="http://js883.*</script>@@
 |http://zhongzicili.com/$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
-|http://www.iqiyi.com/common/flashplayer/201*c2359.swf$f@s@http://www.iqiyi.com/common/flashplayer/201.*c2359\.swf@http://update.adbyby.com/swf/iqiyi5.swf@
 ||booktxt.net/wap/booktxt/wap.js$s@function qijixs_top()*function qijixs_bottom()@function xxx()@
+|http://i-play.mobile.youku.com/common/v5/play^$f@s@&position=7&@&position=0&@
+|http://m.dsmi.cc/$s@<script>;(function(){var d=(/*</script>@@
+||v.532s.com/acfun.php?v=CMTA1OTYzNzI=&url=$s@l:'http://k.ctsywy.com/xml/yueyuju_6842_20160816.swf'*t:15@l:'',t:0@
+|http://www.ningmengzhibo.com/js/lemon/footer.js$s@var loadGuang = function()*var setBanner = function(matchType)@var setxxx = function(matchType)@
+|http://img.ed2000.com/JS/global.js$s@function AdOverTime*if(location.toString()@if(location.toString()@
+
+
+
 !-------------------------------------------
 ||yunluge.com
 ||jheva.com
@@ -30,8 +37,7 @@
 ||9cp1.com
 ||9cp2.com
 |http://*.com/cpv.php^
-@@||irs01.com/irt?_iwt_id=*&_iwt_UA=UA-iqiyi-
-!@@||data.video.qiyi.com/videos/other
+!@@||irs01.com/irt?_iwt_id=*&_iwt_UA=UA-iqiyi-
 |http://dm.sanwen.net/
 |http://m.sanwen.net/static/js/mobile.js
 ||js.union-wifi.com/zm.js?cid=*&dmac
@@ -39,6 +45,7 @@
 |http://1.panduoduo.net$script
 |http://code1.2chcn.net$script
 ||daima.huoche.net
+||nmqbg.com
 
 
 
@@ -53,6 +60,23 @@ codepub.com##.small-banner,.ad
 zhongzicili.com##[href^="http://yunbofangbt.com/gotoum"]
 btlibrary.me##[href^="http://yunbofangbt.com/gotoum"]
 biquge5200.com##[id^="ad"]
+jdunion.com##[class^="a_"]
+cpu-world.com##.adsbygoogle
+downcc.com###showa
+vpser.net##.ab_textlink1,.ab_pip
+ningmengzhibo.com##.advbox,.guangPosition,#bannerDynamic
+178448.com###BannerAD,.wp.a_t
+kikibt.net##[href^="http://yunbofangbt.com/gotoum"]
+kindle114.com##[class="portal_block_summary"]
+
+
+
+
+
+
+
+
+
 !---------adbyby---------
 !|http://bbs.kafan.cn/$s@</head>@</head><script>document.cookie="r6pb_69df_widthauto=1;domain=kafan.cn";</script>@
 thegreatdaily.com/cat##.col-lg-8.col-md-8{width:1190px;}
