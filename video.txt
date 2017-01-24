@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-1-22 21:23:24   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2017-1-23 22:52:09   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 |http://www.dagougou.cc/$s@<script src=?http://js818.51weidashi.com*</script>@@
 |http://www.dagougou.cc/$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
@@ -12,7 +12,7 @@
 |http://zhongzicili.com/$s@<script src="http://js883.*</script>@@
 |http://zhongzicili.com/$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
 ||booktxt.net/wap/booktxt/wap.js$s@function qijixs_top()*function qijixs_bottom()@function xxx()@
-|http://i-play.mobile.youku.com/common/v5/play^$f@s@&position=7&@&position=0&@
+|http://i-play.mobile.youku.com/common/v5/play^$f@s@&position=\d{1,2}&@&position=0&@
 |http://m.dsmi.cc/$s@<script>;(function(){var d=(/*</script>@@
 ||v.532s.com/acfun.php?v=CMTA1OTYzNzI=&url=$s@l:'http://k.ctsywy.com/xml/yueyuju_6842_20160816.swf'*t:15@l:'',t:0@
 |http://www.ningmengzhibo.com/js/lemon/footer.js$s@var loadGuang = function()*var setBanner = function(matchType)@var setxxx = function(matchType)@
@@ -46,8 +46,8 @@
 |http://code1.2chcn.net$script
 ||daima.huoche.net
 ||nmqbg.com
-
-
+|http://m.dm5.com/wxh_asy.js?cid=
+!|http://js16.tel.cdndm.com/v2017012015/default/js/mobile/comics_mb.js
 
 
 
@@ -68,10 +68,18 @@ ningmengzhibo.com##.advbox,.guangPosition,#bannerDynamic
 178448.com###BannerAD,.wp.a_t
 kikibt.net##[href^="http://yunbofangbt.com/gotoum"]
 kindle114.com##[class="portal_block_summary"]
-
-
-
-
+jdbbs.com##.a_pt,.a_pr,.a_pb,td[height="100"]
+bt606.com##.a_mu,img[height="90"]
+dayanzai.me##.rban1,.cy-banner-iframe-wrapper,.cy-float-iframe-right-wrapper,.down_show_intro_first_box
+www.2cha.com##.aaaddd,.ggwei
+ifeng.com##.jctj,#iis_yw0
+chengdu.cn###ad_cover,.ad-banner,#sideBox[style],[class^="ad-"]
+cnool.net##.meilai_box,.tb_box
+cngold.org##.fAdvBorder,.fiexdAdvsClosed,.banner
+dm5.com##.yddiv,.adCon,.adform_2,.adform_1
+ddshu.net##.adsbygoogle,table[height="300px;"],table[height="320"]
+bunnygo.net##.scupioadslot,#fancybox-wrap,#inline1,#fancybox-overlay,.kiwi-ad-wrapper-728x90
+zmz2017.com##.information-sub
 
 
 
