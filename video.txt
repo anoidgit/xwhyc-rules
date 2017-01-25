@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-1-24 21:58:50   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2017-1-25 23:29:51   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 |http://www.dagougou.cc/$s@<script src=?http://js818.51weidashi.com*</script>@@
 |http://www.dagougou.cc/$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
@@ -66,6 +66,12 @@
 ||cnfanglei.com
 |http://bdm.911cha.com/$script
 ||yingkeduo.cn
+|http://www.guangyuanol.cn/fpb/$script
+|http://js.xinchunrui.com
+||116pe.com/dl.js
+|http://daohang.114so.cn/zy2/
+
+
 
 @@|http://forum.anywlan.com/static/js/forum_viewthread.js
 !-----------------------
@@ -101,9 +107,9 @@ down12.com###btm-union
 downza.cn##.downbtn-AD,.down_top
 feemoo.com##.adsbygoogle,[src="http://www.fmdisk.com/ima/qsyx.png"]
 911cha.com##.adbox
-
-
-
+etidol.com##.adBlockR,.mustBuy.blockspace,.products.blockspace
+eprice.com.tw###popup-ad-overlay
+b2bname.com##.block-ad
 
 
 
