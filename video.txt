@@ -1,115 +1,16 @@
-!  -----更新时间:  2017-1-25 23:29:51   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2017-1-26 23:41:36   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
-|http://www.dagougou.cc/$s@<script src=?http://js818.51weidashi.com*</script>@@
-|http://www.dagougou.cc/$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
-|http://www.mianhuatang.la/images/book.js$s@function a()*function reads()@function xxx()@
-|http://m.mianhuatang.la/images/page.js$s@function fujia()*function search()@function search()@
-|http://www.gaoqingkong.com/$s@<script>/?<![CDATA[?/var strVar1=*</script>@@
-|http://wap.xxbiquge.com/js/common.js$s@function style_head()*function tm()@function xxx()@
-|http://zhongzicili.com/$s@<div class="footer" >*src="http://www.baidu.com/js/opensug.js"></script>@@
-|http://zhongzicili.com/$s@<script charset="utf-8" src="http://t.ju33.com:*</script>@@
-|http://zhongzicili.com/$s@<script src="http://js3555.*</script>@@
-|http://zhongzicili.com/$s@<script src="http://js883.*</script>@@
-|http://zhongzicili.com/$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
-||booktxt.net/wap/booktxt/wap.js$s@function qijixs_top()*function qijixs_bottom()@function xxx()@
-|http://i-play.mobile.youku.com/common/v5/play^$f@s@&position=\d{1,2}&@&position=0&@
-|http://m.dsmi.cc/$s@<script>;(function(){var d=(/*</script>@@
-||v.532s.com/acfun.php?v=CMTA1OTYzNzI=&url=$s@l:'http://k.ctsywy.com/xml/yueyuju_6842_20160816.swf'*t:15@l:'',t:0@
-|http://www.ningmengzhibo.com/js/lemon/footer.js$s@var loadGuang = function()*var setBanner = function(matchType)@var setxxx = function(matchType)@
-|http://img.ed2000.com/JS/global.js$s@function AdOverTime*if(location.toString()@if(location.toString()@
-|http://m.bxwx.us/wap.js$s@function _js_xf()*function _BottomAll()@function xxx()@
-|http://m.baoliny.com/js/wap.js$s@function yue1()*function bb()@function xxx()@
-||aszw8.com^*201*.js$s@function zhuye_1(){*function tongji()@function xxx()@
-|http://www.feemoo.com/fmdown.php$s@var t = 10;@var t = 1;@
-|http://m.fenghuaju.cc/$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
-|http://m.xuehong.cc/js/m1.js$s@function head()*function _BottomAll()@function xxx()@
+
+
+
 
 !-------------------------------------------
-||yunluge.com
-||jheva.com
-||51weidashi.com^
-||fthcz.com
-@@||download.mokeedev.com/ad-dl.php
-||szxpsg.com
-||expo123.net
-||chmae.com
-|http://mm.wap.xxbiquge.com
-||dkdlsj.com
-||70lm.com^
-||3ygww.com
-||xxcgdq.com
-||9cp1.com
-||9cp2.com
-|http://*.com/cpv.php^
-!@@||irs01.com/irt?_iwt_id=*&_iwt_UA=UA-iqiyi-
-|http://dm.sanwen.net/
-|http://m.sanwen.net/static/js/mobile.js
-||js.union-wifi.com/zm.js?cid=*&dmac
-|http://1.win7china.com$script
-|http://1.panduoduo.net$script
-|http://code1.2chcn.net$script
-||daima.huoche.net
-||nmqbg.com
-|http://m.dm5.com/wxh_asy.js?cid=
-!|http://js16.tel.cdndm.com/v2017012015/default/js/mobile/comics_mb.js
-|http://www.down12.com/common/js/union.js
-|http://www.down12.com/common/js/bdvert.js
-||eyd77s.com
-||55xs.com/files/article/html/xa6.js
-||whpxy.com
-|http://qd.snwx.com
-|http://qd.dhzw.com
-|http://qd.baoliny.com
-||cgskqg.com
-||85655095.com
-@@||captcha.qq.com
-||cnfanglei.com
-|http://bdm.911cha.com/$script
-||yingkeduo.cn
-|http://www.guangyuanol.cn/fpb/$script
-|http://js.xinchunrui.com
-||116pe.com/dl.js
-|http://daohang.114so.cn/zy2/
 
 
 
-@@|http://forum.anywlan.com/static/js/forum_viewthread.js
+
+
 !-----------------------
-mianhuatang.la##.top_ad
-tsdm.tw##.bm.a_c
-codepub.com##.small-banner,.ad
-zhongzicili.com##[href^="http://yunbofangbt.com/gotoum"]
-btlibrary.me##[href^="http://yunbofangbt.com/gotoum"]
-biquge5200.com##[id^="ad"]
-jdunion.com##[class^="a_"]
-cpu-world.com##.adsbygoogle
-downcc.com###showa
-vpser.net##.ab_textlink1,.ab_pip
-ningmengzhibo.com##.advbox,.guangPosition,#bannerDynamic
-178448.com###BannerAD,.wp.a_t
-kikibt.net##[href^="http://yunbofangbt.com/gotoum"]
-kindle114.com##[class="portal_block_summary"]
-jdbbs.com##.a_pt,.a_pr,.a_pb,td[height="100"]
-bt606.com##.a_mu,img[height="90"]
-dayanzai.me##.rban1,.cy-banner-iframe-wrapper,.cy-float-iframe-right-wrapper,.down_show_intro_first_box
-www.2cha.com##.aaaddd,.ggwei
-ifeng.com##.jctj,#iis_yw0
-chengdu.cn###ad_cover,.ad-banner,#sideBox[style],[class^="ad-"]
-cnool.net##.meilai_box,.tb_box
-cngold.org##.fAdvBorder,.fiexdAdvsClosed,.banner
-dm5.com##.yddiv,.adCon,.adform_2,.adform_1
-ddshu.net##.adsbygoogle,table[height="300px;"],table[height="320"]
-bunnygo.net##.scupioadslot,#fancybox-wrap,#inline1,#fancybox-overlay,.kiwi-ad-wrapper-728x90
-zmz2017.com##.information-sub,.adsbygoogle,.couplet,.lx167
-skykiwichina.com###main_right_ad,.soku_ad,#topads,[src^="http://www.gcemedia.co.nz/www/delivery/afr.php"],[src^="http://ads.skykiwi.com/www/delivery/afr.php"],[id^="ad_"]
-down12.com###btm-union
-360doc.com###divunderZcommondAd,#divyoulikead,.clear360doc[style]
-downza.cn##.downbtn-AD,.down_top
-feemoo.com##.adsbygoogle,[src="http://www.fmdisk.com/ima/qsyx.png"]
-911cha.com##.adbox
-etidol.com##.adBlockR,.mustBuy.blockspace,.products.blockspace
-eprice.com.tw###popup-ad-overlay
-b2bname.com##.block-ad
 
 
 
